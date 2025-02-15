@@ -14,7 +14,7 @@
 ### **🌱 Currently Learning**
 - 📲 Advanced **Android Development**
 - ☁️ **Cloud Integration** (Firebase, AWS)
-- 📊 **Big Data & Data Analytics Tools** (Python, Pandas, SQL, Power BI)
+- 📊 **Data Analytics Tools** (Python, Pandas, SQL, Power BI)
 - 🚀 **Scalability & Performance Optimization**
 
 ---
