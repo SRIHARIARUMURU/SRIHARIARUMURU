@@ -1,5 +1,5 @@
 ### **🚀 Hi, I'm SRIHARI ARUMURU!**  
-💻 Passionate about **python development**, and **Data Analytics**, **Android Development**.  
+💻 Passionate about **python Full Stack development**, **Data Analytics**, and**Android Development**.  
 
 ---
 
