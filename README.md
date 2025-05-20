@@ -1,5 +1,5 @@
 ### **🚀 Hi, I'm SRIHARI ARUMURU!**  
-💻 Passionate about **Android Development**, **Vehicle Tracking Systems**, and **Data Analytics**.  
+💻 Passionate about **python development**, and **Data Analytics**, **Android Development**.  
 
 ---
 
