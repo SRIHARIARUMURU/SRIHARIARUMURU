@@ -21,8 +21,9 @@
 ---
 
 ### **💞 Looking to Collaborate On**
-- 📌 **Android-based Real-time Tracking Projects**
+- 🧑‍💻 **Python Development**
 - 📊 **Data Analytics & Visualization Projects**
+- 📌 **Android-based Real-time Tracking Projects**
 - 🤝 **Open Source Contributions**
 
 ---
