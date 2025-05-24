@@ -4,6 +4,7 @@
 ---
 
 ### **👀 Interests**
+- 🧑‍💻 **Python Full Stacak**
 - 📊 **Data Analytics & Visualization**
 - 🔥 **Android App Development**
 - 📡 **Real-time Vehicle Tracking**
@@ -29,7 +30,7 @@
 ### **📫 How to Reach Me**
 - 📨 **Email:** srihariarumuru@gmail.com  
 - 🔗 **GitHub:** [SRIHARIARUMURU](https://github.com/SRIHARIARUMURU)  
-
+- 🔗 **GitHub:** LinkedIn: https://www.linkedin.com/in/srihari-arumuru-62318324a                             
 ---
 
 ### **⚡ Fun Fact**
