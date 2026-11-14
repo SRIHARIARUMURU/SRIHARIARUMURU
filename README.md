@@ -1,50 +1,42 @@
-### **🚀 Hi, I'm SRIHARI ARUMURU!**  
-💻 Passionate about **python Full Stack development**, **Data Analytics**, and**Android Development**.  
+### Hi, I'm Srihari Arumuru 👋
+
+I'm interested in **data engineering, Python, and AI**—especially building reliable data workflows and exploring how AI can turn data into useful solutions.
 
 ---
 
-### **👀 Interests**
-- 🧑‍💻 **Python Full Stacak**
-- 📊 **Data Analytics & Visualization**
-- 🔥 **Android App Development**
-- 📡 **Real-time Vehicle Tracking**
-- 📍 **Google Maps API & Firebase**
+### Areas I'm Exploring
+- ⚙️ **Data engineering:** data pipelines, ETL/ELT, data modeling, and data quality
+- 🐍 **Python:** scripting, automation, and data-focused applications
+- 🤖 **AI and machine learning:** practical AI applications and working with data to support intelligent systems
+- 🗄️ **Analytics foundations:** SQL, data analysis, and visualization
 
 ---
 
-### **🌱 Currently Learning**
-- 📲 Advanced **Android Development**
-- ☁️ **Cloud Integration** (Firebase, AWS)
-- 📊 **Data Analytics Tools** (Python, Pandas, SQL, Power BI)
-- 🚀 **Scalability & Performance Optimization**
+### Currently Learning
+- Designing and building data pipelines
+- Python tools and practices for data engineering
+- AI and machine-learning fundamentals
+- Cloud and modern data-platform concepts
 
 ---
 
-### **💞 Looking to Collaborate On**
-- 🧑‍💻 **Python Development**
-- 📊 **Data Analytics & Visualization Projects**
-- 📌 **Android-based Real-time Tracking Projects**
-- 🤝 **Open Source Contributions**
+### Open to Collaborating On
+- Python and data engineering projects
+- Data analysis and visualization
+- Practical AI or machine-learning projects
+- Open-source projects where I can learn and contribute
 
 ---
 
-### **📫 How to Reach Me**
-- 📨 **Email:** srihariarumuru@gmail.com  
-- 🔗 **GitHub:** [SRIHARIARUMURU](https://github.com/SRIHARIARUMURU)  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/srihari-arumuru-62318324a                             
----
-
-### **⚡ Fun Fact**
-🚗 **Built an Intelligent Vehicle Tracking System that helps students track college buses in real time!**  
-📊 **Love analyzing data to find hidden insights and patterns!**  
+### Get in Touch
+- 📧 **Email:** srihariarumuru@gmail.com
+- 🐙 **GitHub:** [SRIHARIARUMURU](https://github.com/SRIHARIARUMURU)
+- 🔗 **LinkedIn:** [Srihari Arumuru](https://www.linkedin.com/in/srihari-arumuru-62318324a)
 
 ---
 
-📌 **Want to collaborate? Let’s build something amazing together!** 🚀  
-
-
+I'm always interested in learning, building, and collaborating on useful data and AI projects. 🚀
 
 <!---
 SRIHARIARUMURU/SRIHARIARUMURU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
