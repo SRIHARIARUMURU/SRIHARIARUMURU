@@ -20,7 +20,7 @@ I’m passionate about building data-driven solutions, working with Python, and 
 - **Data & Analytics:** Data cleaning, transformation, reporting, visualization
 - **Data Engineering Concepts:** Pipelines, data flow, data modeling, data quality
 - **AI/ML Basics:** Data preparation, model experimentation, and learning workflows
-- **Tools & Practices:** Git, GitHub, Jupyter, Pandas, NumPy, visualization tools
+- **Tools & Practices:** Git, GitHub, Jupyter, Pandas, NumPy, SQLite, visualization tools
 
 ---
 
@@ -30,6 +30,15 @@ I’m passionate about building data-driven solutions, working with Python, and 
 - SQL and data modeling best practices
 - AI and ML fundamentals for real-world use cases
 - Cloud-based data tools and scalable architecture
+
+---
+
+### 📁 Featured Project
+- 🔗 [Sales Data ETL Pipeline](https://github.com/SRIHARIARUMURU/sales-data-etl-pipeline)
+  - Built a Python-based ETL pipeline using sample sales data
+  - Cleaned and transformed data with Pandas
+  - Loaded the data into SQLite
+  - Performed SQL analysis to derive business insights
 
 ---
 
